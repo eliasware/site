@@ -1,0 +1,25 @@
+roblox scripts
+
+Combat WArriors:
+
+loadstring(game:HttpGet("https://you.whimper.xyz/infernium.lua"))()
+
+
+
+MVSD
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BeanBotWare/FreakBob/refs/heads/main/FreakBob"))()
+
+
+
+BLADE BALL
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/PitbullHubX/refs/heads/main/PitbullHubX.lua", true))()
+
+
+
+FUNKY FRIDAY
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nadir3709/ScriptHub/main/Loader"))()
+
+
+
+
+
